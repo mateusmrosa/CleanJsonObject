@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zt/ZW2YGGuxJze3VHAEklB+IMO7Q0SVQbmAboBx8zMg6egTRrGCgKpH9cKsE+tNKiXbjh64ab32xsa/faImAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\Documents\\projetos\\c#\\CleanJsonObject\\CleanJsonObject\\CleanJsonObject\\CleanJsonObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

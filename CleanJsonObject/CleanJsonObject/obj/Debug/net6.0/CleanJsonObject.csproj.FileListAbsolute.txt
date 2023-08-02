@@ -1,0 +1,17 @@
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\CleanJsonObject.exe
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\CleanJsonObject.deps.json
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\CleanJsonObject.runtimeconfig.json
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\CleanJsonObject.dll
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\CleanJsonObject.pdb
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.AssemblyInfo.cs
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.csproj.CopyComplete
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.dll
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\refint\CleanJsonObject.dll
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.pdb
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\CleanJsonObject.genruntimeconfig.cache
+C:\Users\mateu\Documents\projetos\c#\CleanJsonObject\CleanJsonObject\CleanJsonObject\obj\Debug\net6.0\ref\CleanJsonObject.dll
